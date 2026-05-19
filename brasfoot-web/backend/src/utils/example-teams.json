@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Flamengo",
+    "short_name": "FLA",
+    "attack": 85,
+    "midfield": 80,
+    "defense": 75,
+    "players": [
+      { "name": "Rossi", "position": "GK", "overall": 78, "pace": 40, "shooting": 30, "passing": 65, "dribbling": 45, "defending": 75, "physical": 80, "stamina": 70 },
+      { "name": "Wesley", "position": "DEF", "overall": 75, "pace": 80, "shooting": 50, "passing": 65, "dribbling": 70, "defending": 78, "physical": 75, "stamina": 80 },
+      { "name": "Léo Pereira", "position": "DEF", "overall": 77, "pace": 65, "shooting": 45, "passing": 60, "dribbling": 55, "defending": 80, "physical": 82, "stamina": 70 },
+      { "name": "Fabrício Bruno", "position": "DEF", "overall": 76, "pace": 60, "shooting": 40, "passing": 55, "dribbling": 50, "defending": 82, "physical": 85, "stamina": 68 },
+      { "name": "Ayrton Lucas", "position": "DEF", "overall": 74, "pace": 78, "shooting": 55, "passing": 68, "dribbling": 72, "defending": 72, "physical": 70, "stamina": 82 },
+      { "name": "Gerson", "position": "MID", "overall": 82, "pace": 72, "shooting": 75, "passing": 85, "dribbling": 80, "defending": 65, "physical": 75, "stamina": 80 },
+      { "name": "De La Cruz", "position": "MID", "overall": 80, "pace": 75, "shooting": 70, "passing": 82, "dribbling": 78, "defending": 68, "physical": 72, "stamina": 78 },
+      { "name": "Pulgar", "position": "MID", "overall": 76, "pace": 60, "shooting": 65, "passing": 78, "dribbling": 65, "defending": 75, "physical": 78, "stamina": 75 },
+      { "name": "Arrascaeta", "position": "MID", "overall": 83, "pace": 70, "shooting": 80, "passing": 88, "dribbling": 85, "defending": 50, "physical": 60, "stamina": 72 },
+      { "name": "Pedro", "position": "FWD", "overall": 82, "pace": 72, "shooting": 88, "passing": 65, "dribbling": 75, "defending": 40, "physical": 82, "stamina": 75 },
+      { "name": "Luiz Araújo", "position": "FWD", "overall": 79, "pace": 82, "shooting": 78, "passing": 70, "dribbling": 80, "defending": 45, "physical": 65, "stamina": 78 }
+    ]
+  },
+  {
+    "name": "Palmeiras",
+    "short_name": "PAL",
+    "attack": 82,
+    "midfield": 78,
+    "defense": 80,
+    "players": [
+      { "name": "Weverton", "position": "GK", "overall": 80, "pace": 45, "shooting": 35, "passing": 70, "dribbling": 50, "defending": 78, "physical": 82, "stamina": 72 },
+      { "name": "Marcos Rocha", "position": "DEF", "overall": 72, "pace": 65, "shooting": 45, "passing": 68, "dribbling": 60, "defending": 75, "physical": 72, "stamina": 78 },
+      { "name": "Gustavo Gómez", "position": "DEF", "overall": 80, "pace": 62, "shooting": 55, "passing": 65, "dribbling": 55, "defending": 85, "physical": 85, "stamina": 70 },
+      { "name": "Murilo", "position": "DEF", "overall": 76, "pace": 68, "shooting": 40, "passing": 58, "dribbling": 52, "defending": 80, "physical": 80, "stamina": 72 },
+      { "name": "Piquerez", "position": "DEF", "overall": 75, "pace": 75, "shooting": 50, "passing": 70, "dribbling": 68, "defending": 74, "physical": 72, "stamina": 80 },
+      { "name": "Zé Rafael", "position": "MID", "overall": 76, "pace": 65, "shooting": 68, "passing": 75, "dribbling": 68, "defending": 72, "physical": 78, "stamina": 76 },
+      { "name": "Raphael Veiga", "position": "MID", "overall": 80, "pace": 70, "shooting": 82, "passing": 80, "dribbling": 75, "defending": 55, "physical": 65, "stamina": 75 },
+      { "name": "Richard Ríos", "position": "MID", "overall": 78, "pace": 72, "shooting": 65, "passing": 78, "dribbling": 75, "defending": 75, "physical": 76, "stamina": 80 },
+      { "name": "Estêvão", "position": "MID", "overall": 79, "pace": 85, "shooting": 75, "passing": 72, "dribbling": 85, "defending": 40, "physical": 58, "stamina": 75 },
+      { "name": "Endrick", "position": "FWD", "overall": 78, "pace": 82, "shooting": 80, "passing": 60, "dribbling": 78, "defending": 35, "physical": 72, "stamina": 75 },
+      { "name": "Rony", "position": "FWD", "overall": 76, "pace": 85, "shooting": 72, "passing": 65, "dribbling": 78, "defending": 45, "physical": 70, "stamina": 80 }
+    ]
+  },
+  {
+    "name": "Botafogo",
+    "short_name": "BOT",
+    "attack": 80,
+    "midfield": 76,
+    "defense": 74,
+    "players": [
+      { "name": "John", "position": "GK", "overall": 76, "pace": 42, "shooting": 30, "passing": 62, "dribbling": 48, "defending": 74, "physical": 78, "stamina": 68 },
+      { "name": "Damián Suárez", "position": "DEF", "overall": 73, "pace": 62, "shooting": 42, "passing": 65, "dribbling": 58, "defending": 76, "physical": 74, "stamina": 75 },
+      { "name": "Bastos", "position": "DEF", "overall": 75, "pace": 60, "shooting": 38, "passing": 58, "dribbling": 50, "defending": 78, "physical": 82, "stamina": 68 },
+      { "name": "Barboza", "position": "DEF", "overall": 76, "pace": 65, "shooting": 45, "passing": 60, "dribbling": 55, "defending": 80, "physical": 80, "stamina": 70 },
+      { "name": "Cuesta", "position": "DEF", "overall": 74, "pace": 58, "shooting": 40, "passing": 55, "dribbling": 48, "defending": 77, "physical": 82, "stamina": 68 },
+      { "name": "Marlon Freitas", "position": "MID", "overall": 74, "pace": 62, "shooting": 58, "passing": 72, "dribbling": 65, "defending": 72, "physical": 74, "stamina": 76 },
+      { "name": "Gregore", "position": "MID", "overall": 75, "pace": 65, "shooting": 60, "passing": 70, "dribbling": 68, "defending": 76, "physical": 78, "stamina": 78 },
+      { "name": "Tchê Tchê", "position": "MID", "overall": 72, "pace": 60, "shooting": 55, "passing": 75, "dribbling": 65, "defending": 68, "physical": 70, "stamina": 74 },
+      { "name": "Luiz Henrique", "position": "MID", "overall": 78, "pace": 82, "shooting": 75, "passing": 70, "dribbling": 82, "defending": 42, "physical": 65, "stamina": 78 },
+      { "name": "Savarino", "position": "FWD", "overall": 77, "pace": 80, "shooting": 74, "passing": 68, "dribbling": 78, "defending": 40, "physical": 65, "stamina": 76 },
+      { "name": "Almada", "position": "FWD", "overall": 79, "pace": 78, "shooting": 78, "passing": 75, "dribbling": 80, "defending": 45, "physical": 68, "stamina": 75 }
+    ]
+  },
+  {
+    "name": "São Paulo",
+    "short_name": "SAO",
+    "attack": 76,
+    "midfield": 74,
+    "defense": 78,
+    "players": [
+      { "name": "Rafael", "position": "GK", "overall": 74, "pace": 38, "shooting": 28, "passing": 58, "dribbling": 42, "defending": 72, "physical": 76, "stamina": 65 },
+      { "name": "Rafinha", "position": "DEF", "overall": 72, "pace": 60, "shooting": 42, "passing": 65, "dribbling": 58, "defending": 74, "physical": 70, "stamina": 72 },
+      { "name": "Arboleda", "position": "DEF", "overall": 76, "pace": 58, "shooting": 40, "passing": 55, "dribbling": 48, "defending": 80, "physical": 84, "stamina": 68 },
+      { "name": "Diego Costa", "position": "DEF", "overall": 74, "pace": 62, "shooting": 38, "passing": 58, "dribbling": 52, "defending": 78, "physical": 80, "stamina": 70 },
+      { "name": "Welington", "position": "DEF", "overall": 73, "pace": 78, "shooting": 48, "passing": 62, "dribbling": 68, "defending": 72, "physical": 68, "stamina": 80 },
+      { "name": "Pablo Maia", "position": "MID", "overall": 74, "pace": 65, "shooting": 58, "passing": 72, "dribbling": 68, "defending": 74, "physical": 72, "stamina": 76 },
+      { "name": "Alisson", "position": "MID", "overall": 73, "pace": 62, "shooting": 60, "passing": 70, "dribbling": 65, "defending": 70, "physical": 70, "stamina": 74 },
+      { "name": "Lucas Moura", "position": "MID", "overall": 78, "pace": 82, "shooting": 76, "passing": 72, "dribbling": 82, "defending": 45, "physical": 65, "stamina": 75 },
+      { "name": "Nestor", "position": "MID", "overall": 70, "pace": 68, "shooting": 55, "passing": 65, "dribbling": 62, "defending": 60, "physical": 65, "stamina": 72 },
+      { "name": "Luciano", "position": "FWD", "overall": 76, "pace": 75, "shooting": 78, "passing": 65, "dribbling": 72, "defending": 38, "physical": 70, "stamina": 74 },
+      { "name": "Calleri", "position": "FWD", "overall": 75, "pace": 65, "shooting": 80, "passing": 60, "dribbling": 65, "defending": 40, "physical": 78, "stamina": 72 }
+    ]
+  },
+  {
+    "name": "Corinthians",
+    "short_name": "COR",
+    "attack": 72,
+    "midfield": 70,
+    "defense": 74,
+    "players": [
+      { "name": "Cássio", "position": "GK", "overall": 76, "pace": 35, "shooting": 25, "passing": 60, "dribbling": 40, "defending": 75, "physical": 78, "stamina": 65 },
+      { "name": "Fagner", "position": "DEF", "overall": 72, "pace": 58, "shooting": 45, "passing": 68, "dribbling": 60, "defending": 74, "physical": 72, "stamina": 70 },
+      { "name": "Gil", "position": "DEF", "overall": 74, "pace": 55, "shooting": 38, "passing": 58, "dribbling": 50, "defending": 78, "physical": 80, "stamina": 65 },
+      { "name": "Caetano", "position": "DEF", "overall": 70, "pace": 62, "shooting": 35, "passing": 55, "dribbling": 52, "defending": 74, "physical": 76, "stamina": 68 },
+      { "name": "Fábio Santos", "position": "DEF", "overall": 71, "pace": 55, "shooting": 42, "passing": 65, "dribbling": 58, "defending": 72, "physical": 70, "stamina": 68 },
+      { "name": "Maycon", "position": "MID", "overall": 72, "pace": 62, "shooting": 58, "passing": 72, "dribbling": 68, "defending": 70, "physical": 72, "stamina": 74 },
+      { "name": "Rodrigo Garro", "position": "MID", "overall": 76, "pace": 68, "shooting": 72, "passing": 80, "dribbling": 75, "defending": 52, "physical": 60, "stamina": 72 },
+      { "name": "Memphis", "position": "MID", "overall": 75, "pace": 78, "shooting": 76, "passing": 68, "dribbling": 80, "defending": 42, "physical": 68, "stamina": 74 },
+      { "name": "Ryan", "position": "MID", "overall": 68, "pace": 72, "shooting": 55, "passing": 62, "dribbling": 65, "defending": 58, "physical": 62, "stamina": 70 },
+      { "name": "Yuri Alberto", "position": "FWD", "overall": 76, "pace": 75, "shooting": 78, "passing": 60, "dribbling": 70, "defending": 38, "physical": 78, "stamina": 75 },
+      { "name": "Romero", "position": "FWD", "overall": 72, "pace": 80, "shooting": 70, "passing": 62, "dribbling": 75, "defending": 40, "physical": 65, "stamina": 76 }
+    ]
+  },
+  {
+    "name": "Fluminense",
+    "short_name": "FLU",
+    "attack": 74,
+    "midfield": 76,
+    "defense": 72,
+    "players": [
+      { "name": "Fábio", "position": "GK", "overall": 75, "pace": 32, "shooting": 25, "passing": 65, "dribbling": 42, "defending": 72, "physical": 75, "stamina": 62 },
+      { "name": "Samuel Xavier", "position": "DEF", "overall": 72, "pace": 65, "shooting": 42, "passing": 68, "dribbling": 62, "defending": 74, "physical": 70, "stamina": 75 },
+      { "name": "Nino", "position": "DEF", "overall": 74, "pace": 62, "shooting": 38, "passing": 58, "dribbling": 52, "defending": 78, "physical": 78, "stamina": 70 },
+      { "name": "Felipe Melo", "position": "DEF", "overall": 72, "pace": 55, "shooting": 40, "passing": 62, "dribbling": 55, "defending": 76, "physical": 76, "stamina": 68 },
+      { "name": "Marcelo", "position": "DEF", "overall": 73, "pace": 58, "shooting": 52, "passing": 78, "dribbling": 75, "defending": 68, "physical": 65, "stamina": 62 },
+      { "name": "André", "position": "MID", "overall": 76, "pace": 65, "shooting": 58, "passing": 75, "dribbling": 72, "defending": 78, "physical": 74, "stamina": 76 },
+      { "name": "Martinelli", "position": "MID", "overall": 74, "pace": 68, "shooting": 62, "passing": 72, "dribbling": 70, "defending": 70, "physical": 72, "stamina": 74 },
+      { "name": "Ganso", "position": "MID", "overall": 75, "pace": 55, "shooting": 68, "passing": 82, "dribbling": 72, "defending": 48, "physical": 58, "stamina": 62 },
+      { "name": "Jhon Arias", "position": "MID", "overall": 78, "pace": 78, "shooting": 74, "passing": 72, "dribbling": 80, "defending": 48, "physical": 68, "stamina": 76 },
+      { "name": "Germán Cano", "position": "FWD", "overall": 78, "pace": 65, "shooting": 82, "passing": 60, "dribbling": 68, "defending": 35, "physical": 75, "stamina": 70 },
+      { "name": "Keno", "position": "FWD", "overall": 74, "pace": 80, "shooting": 72, "passing": 65, "dribbling": 76, "defending": 42, "physical": 65, "stamina": 74 }
+    ]
+  }
+]

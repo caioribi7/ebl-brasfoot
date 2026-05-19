@@ -1,0 +1,977 @@
+{
+  "summary" : {
+    "totalRows" : 96,
+    "successCount" : 93,
+    "notFoundCount" : 2,
+    "banMissingCount" : 0,
+    "rosterFullCount" : 1,
+    "alreadyTransferred" : 0,
+    "missingTeamCount" : 0,
+    "dismissedCount" : 0,
+    "financialSkipped" : 0,
+    "uncertainSkipped" : 0,
+    "errorCount" : 0,
+    "modifiedTeams" : [ "tigresdobrasil", "Linense", "mazagao", "americamg_bra", "pacajusce_bra", "ferroviario (1)", "independente_ap", "Paulista", "macapa_ap", "15denovembro", "internacional_bra", "madureira_bra", "feirense_26", "intersm_26", "cajazeiras_26", "Gama.ban", "sampaiocorrea_26", "Joinville EBL", "saojose_26", "flamengo_pi", "baraunas_rn", "ferroviario_pi_cg_br", "esportivo_26", "portuguesarj", "ypiranga_26", "novohamburgo_26", "cascavel_pr", "amazonas_am", "resende", "bonsucesso", "brasilpelotas_bra", "bragantino_bra", "guaranysobralce_bra", "coritiba_bra", "VilaNova.ban", "galomaringa_pr", "horizonte_ce", "RiograndenseSM", "cianorte_pr", "Tuna Luso EBL", "cruzeiro_26", "bahiafeira_ba", "fozdoiguaçu_pr", "Gaúcho" ]
+  },
+  "transfers" : [ {
+    "message" : "Transferido. Nome no .ban: 'Gerson' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Coritiba",
+    "matchedName" : "Gerson",
+    "row" : 2,
+    "player" : "GERSON",
+    "motivo" : "Gerson",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gbidas Gineitis' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Gbidas Gineitis",
+    "row" : 3,
+    "player" : "GBIDAS GINEITIS",
+    "motivo" : "Gbidas Gineitis",
+    "to" : "RB Bragantino",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Clayon  ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Clayon  ",
+    "row" : 4,
+    "player" : "CLAYON",
+    "motivo" : "Clayon",
+    "to" : "RB Bragantino",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gabriel Cipriano' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Bonsucesso",
+    "matchedName" : "Gabriel Cipriano",
+    "row" : 5,
+    "player" : "GABRIEL CIPRIANO",
+    "motivo" : "Gabriel Cipriano",
+    "to" : "Amazonas ",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Caio Mello' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cruzeiro-RS",
+    "matchedName" : "Caio Mello",
+    "row" : 6,
+    "player" : "CAIO MELLO",
+    "motivo" : "Caio Mello",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gustavo Henrique' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Baraúnas",
+    "matchedName" : "Gustavo Henrique",
+    "row" : 7,
+    "player" : "GUSTAVO HENRIQUE",
+    "motivo" : "Gustavo Henrique",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Ramires' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Ferroviário",
+    "matchedName" : "Ramires",
+    "row" : 8,
+    "player" : "RAMIRES",
+    "motivo" : "Ramires",
+    "to" : "Pacajus",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Edicleber  ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Independente-AP",
+    "matchedName" : "Edicleber  ",
+    "row" : 9,
+    "player" : "EDICLEBER",
+    "motivo" : "Edicleber",
+    "to" : "Atlético Cajazeirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Allan' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Atlético Cajazeirense",
+    "matchedName" : "Allan",
+    "row" : 10,
+    "player" : "ALLAN",
+    "motivo" : "Allan",
+    "to" : "Independente-AP",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Davi' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Galo Maringá",
+    "matchedName" : "Davi",
+    "row" : 11,
+    "player" : "DAVI",
+    "motivo" : "Davi",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pedro' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Pedro",
+    "row" : 12,
+    "player" : "PEDRO",
+    "motivo" : "Pedro",
+    "to" : "Atlético Cajazeirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Welton Heleno' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Welton Heleno",
+    "row" : 13,
+    "player" : "WELTON HELENO",
+    "motivo" : "Welton Heleno",
+    "to" : "Galo Maringá",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'David Neres' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "David Neres",
+    "row" : 14,
+    "player" : "DAVID NERES",
+    "motivo" : "David Neres",
+    "to" : "América MG",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Warlei' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Warlei",
+    "row" : 15,
+    "player" : "WARLEI",
+    "motivo" : "Warlei",
+    "to" : "Linense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Thiago Andrade' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Tigres do Brasil",
+    "matchedName" : "Thiago Andrade",
+    "row" : 16,
+    "player" : "THIAGO ANDRADE",
+    "motivo" : "Thiago Andrade",
+    "to" : "Resende",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Rubem' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Tigres do Brasil",
+    "matchedName" : "Rubem",
+    "row" : 17,
+    "player" : "RUBEM",
+    "motivo" : "Rubem",
+    "to" : "Resende",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Jogador 'LUCAS EVANGELISTA' não encontrado no .ban de 'Paulista de Jundiaí'.",
+    "matchScore" : "0%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "",
+    "row" : 18,
+    "player" : "LUCAS EVANGELISTA",
+    "motivo" : "Lucas Evangelista",
+    "to" : "Ferroviário",
+    "status" : "NOT_FOUND"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'César' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Ferroviaria-PI",
+    "matchedName" : "César",
+    "row" : 19,
+    "player" : "CESAR",
+    "motivo" : "César",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Mota' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Madureira",
+    "matchedName" : "Mota",
+    "row" : 20,
+    "player" : "MOTA",
+    "motivo" : "Mota",
+    "to" : "Horizonte",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'João Victor' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "João Victor",
+    "row" : 21,
+    "player" : "JOAO VICTOR",
+    "motivo" : "João Victor",
+    "to" : "Cianorte",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Bruno Miranda' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Bruno Miranda",
+    "row" : 22,
+    "player" : "BRUNO MIRANDA",
+    "motivo" : "Bruno Miranda",
+    "to" : "Cianorte",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Chris Rigg' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Chris Rigg",
+    "row" : 23,
+    "player" : "CHRIS RIGG",
+    "motivo" : "Chris Rigg",
+    "to" : "Cianorte",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Marcel Sacana' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Marcel Sacana",
+    "row" : 24,
+    "player" : "MARCEL SACANA",
+    "motivo" : "Marcel Sacana",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Ray' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Sampaio Correa",
+    "matchedName" : "Ray",
+    "row" : 25,
+    "player" : "RAY",
+    "motivo" : "Ray",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Murillo ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Ferroviário",
+    "matchedName" : "Murillo ",
+    "row" : 26,
+    "player" : "MURILLO",
+    "motivo" : "Murillo",
+    "to" : "América MG",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Marcos Vitor' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Marcos Vitor",
+    "row" : 27,
+    "player" : "MARCOS VITOR",
+    "motivo" : "Marcos Vitor",
+    "to" : "Flamengo-PI",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Arthur' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Macapá",
+    "matchedName" : "Arthur",
+    "row" : 28,
+    "player" : "ARTHUR",
+    "motivo" : "Arthur",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Raphael Veiga' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Macapá",
+    "matchedName" : "Raphael Veiga",
+    "row" : 29,
+    "player" : "RAPHAEL VEIGA",
+    "motivo" : "Raphael Veiga",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gabriel Macapá ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Macapá",
+    "matchedName" : "Gabriel Macapá ",
+    "row" : 30,
+    "player" : "GABRIEL MACAPA",
+    "motivo" : "Gabriel Macapá",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Wagner' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Wagner",
+    "row" : 31,
+    "player" : "WAGNER",
+    "motivo" : "Wagner",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Álvaro Barreal' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Álvaro Barreal",
+    "row" : 32,
+    "player" : "ALVARO BARREAL",
+    "motivo" : "Álvaro Barreal",
+    "to" : "Flamengo-PI",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Miticov' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Miticov",
+    "row" : 33,
+    "player" : "MITICOV",
+    "motivo" : "Miticov",
+    "to" : "Flamengo-PI",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Fernando Dias' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "Fernando Dias",
+    "row" : 34,
+    "player" : "FERNANDO DIAS",
+    "motivo" : "Fernando Dias",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Lucas Gomes' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "Lucas Gomes",
+    "row" : 35,
+    "player" : "LUCAS GOMES",
+    "motivo" : "Lucas Gomes",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Lucas Evangelista' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Lucas Evangelista",
+    "row" : 36,
+    "player" : "LUCAS EVANGELISTA",
+    "motivo" : "Lucas Evangelista",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pablo' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Pablo",
+    "row" : 37,
+    "player" : "PABLO",
+    "motivo" : "Pablo",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Maicon Assis' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Maicon Assis",
+    "row" : 38,
+    "player" : "MAICON ASSIS",
+    "motivo" : "Maicon Assis",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Diogo Oliveira' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Diogo Oliveira",
+    "row" : 39,
+    "player" : "DIOGO OLIVEIRA",
+    "motivo" : "Diogo Oliveira",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Lucas Lourenço' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Riograndense",
+    "matchedName" : "Lucas Lourenço",
+    "row" : 40,
+    "player" : "LUCAS LOURENCO",
+    "motivo" : "Lucas Lourenço",
+    "to" : "Atlético Cajazeirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Janilson' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Feirense",
+    "matchedName" : "Janilson",
+    "row" : 41,
+    "player" : "JANILSON",
+    "motivo" : "Janilson",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Love Arrhov' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Love Arrhov",
+    "row" : 42,
+    "player" : "LOVE ARRHOV",
+    "motivo" : "Love Arrhov",
+    "to" : "Foz do Iguaçu",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Werick Dantas' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Cascavel",
+    "matchedName" : "Werick Dantas",
+    "row" : 43,
+    "player" : "WERICK DANTAS",
+    "motivo" : "Werick Dantas",
+    "to" : "Foz do Iguaçu",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Abner' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Bahia de Feira",
+    "matchedName" : "Abner",
+    "row" : 44,
+    "player" : "ABNER",
+    "motivo" : "Abner",
+    "to" : "Brasil de Pelotas",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Emmanuel Biumia ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Brasil de Pelotas",
+    "matchedName" : "Emmanuel Biumia ",
+    "row" : 45,
+    "player" : "EMMANUEL BIUMIA",
+    "motivo" : "Emmanuel Biumia",
+    "to" : "Bahia de Feira",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Rubens' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Brasil de Pelotas",
+    "matchedName" : "Rubens",
+    "row" : 46,
+    "player" : "RUBENS",
+    "motivo" : "Rubens",
+    "to" : "Vila Nova",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Chicão' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Esportivo ",
+    "matchedName" : "Chicão",
+    "row" : 47,
+    "player" : "CHICAO",
+    "motivo" : "Chicão",
+    "to" : "Novo Hamburgo",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Tay Abed ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Novo Hamburgo",
+    "matchedName" : "Tay Abed ",
+    "row" : 48,
+    "player" : "TAY ABED",
+    "motivo" : "Tay Abed",
+    "to" : "Esportivo ",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Rafael Copetti' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Brasil de Pelotas",
+    "matchedName" : "Rafael Copetti",
+    "row" : 49,
+    "player" : "RAFAEL COPETTI",
+    "motivo" : "Rafael Copetti",
+    "to" : "15 de Novembro",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Diogo Rangel' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Brasil de Pelotas",
+    "matchedName" : "Diogo Rangel",
+    "row" : 50,
+    "player" : "DIOGO RANGEL",
+    "motivo" : "Diogo Rangel",
+    "to" : "São José - RS",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pedrinho' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Pedrinho",
+    "row" : 51,
+    "player" : "PEDRINHO",
+    "motivo" : "Pedrinho",
+    "to" : "Guarany de Sobral",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Carlos Espí' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Carlos Espí",
+    "row" : 52,
+    "player" : "CARLOS ESPI",
+    "motivo" : "Carlos Espí",
+    "to" : "Guarany de Sobral",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Rian' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Horizonte",
+    "matchedName" : "Rian",
+    "row" : 53,
+    "player" : "RIAN",
+    "motivo" : "Rian",
+    "to" : "Guarany de Sobral",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gabriel Vieira' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Gabriel Vieira",
+    "row" : 54,
+    "player" : "GABRIEL VIEIRA",
+    "motivo" : "Gabriel Vieira",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Jogador 'YTALO' não encontrado no .ban de 'Gama'.",
+    "matchScore" : "0%",
+    "from" : "Gama",
+    "matchedName" : "",
+    "row" : 55,
+    "player" : "YTALO",
+    "motivo" : "Ytalo",
+    "to" : "Gaúcho",
+    "status" : "NOT_FOUND"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gabriel William' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Gabriel William",
+    "row" : 56,
+    "player" : "GABRIEL WILLIAM",
+    "motivo" : "Gabriel William",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Renato Soares' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gama",
+    "matchedName" : "Renato Soares",
+    "row" : 57,
+    "player" : "RENATO SOARES",
+    "motivo" : "Renato Soares",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Wesley' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gama",
+    "matchedName" : "Wesley",
+    "row" : 58,
+    "player" : "WESLEY",
+    "motivo" : "Wesley",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Thiago Rodrigues' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Thiago Rodrigues",
+    "row" : 59,
+    "player" : "THIAGO RODRIGUES",
+    "motivo" : "Thiago Rodrigues",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Lucas Serravalle' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Lucas Serravalle",
+    "row" : 60,
+    "player" : "LUCAS SERRAVALLE",
+    "motivo" : "Lucas Serravalle",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Renan Metz' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Renan Metz",
+    "row" : 61,
+    "player" : "RENAN METZ",
+    "motivo" : "Renan Metz",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Thalis' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Thalis",
+    "row" : 62,
+    "player" : "THALIS",
+    "motivo" : "Thalis",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Nonnô' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Nonnô",
+    "row" : 63,
+    "player" : "NONNO",
+    "motivo" : "Nonnô",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Patrikão' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "Patrikão",
+    "row" : 64,
+    "player" : "PATRIKAO",
+    "motivo" : "Patrikão",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Choco' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "Choco",
+    "row" : 65,
+    "player" : "CHOCO",
+    "motivo" : "Choco",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gabriel Paris' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Gabriel Paris",
+    "row" : 66,
+    "player" : "GABRIEL PARIS",
+    "motivo" : "Gabriel Paris",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Luisinho' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Luisinho",
+    "row" : 67,
+    "player" : "LUISINHO",
+    "motivo" : "Luisinho",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Miguel' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Paulista de Jundiaí",
+    "matchedName" : "Miguel",
+    "row" : 68,
+    "player" : "MIGUEL",
+    "motivo" : "Miguel",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Gianluca' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Gianluca",
+    "row" : 69,
+    "player" : "GIANLUCA",
+    "motivo" : "Gianluca",
+    "to" : "Paulista de Jundiaí",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Nathan Araujo' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gama",
+    "matchedName" : "Nathan Araujo",
+    "row" : 70,
+    "player" : "NATHAN ARAUJO",
+    "motivo" : "Nathan Araujo",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Samuel Costa' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Samuel Costa",
+    "row" : 71,
+    "player" : "SAMUEL COSTA",
+    "motivo" : "Samuel Costa",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Ali' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Feirense",
+    "matchedName" : "Ali",
+    "row" : 72,
+    "player" : "ALI",
+    "motivo" : "Ali",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Laércio' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Laércio",
+    "row" : 73,
+    "player" : "LAERCIO",
+    "motivo" : "Laércio",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Toty' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Toty",
+    "row" : 74,
+    "player" : "TOTY",
+    "motivo" : "Toty",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pedro Paulo' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Feirense",
+    "matchedName" : "Pedro Paulo",
+    "row" : 75,
+    "player" : "PEDRO PAULO",
+    "motivo" : "Pedro Paulo",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Xóri' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Feirense",
+    "matchedName" : "Xóri",
+    "row" : 76,
+    "player" : "XORI",
+    "motivo" : "Xóri",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Zé Pedro' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Zé Pedro",
+    "row" : 77,
+    "player" : "ZE PEDRO",
+    "motivo" : "Zé Pedro",
+    "to" : "Feirense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Ytalo' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Ytalo",
+    "row" : 78,
+    "player" : "YTALO",
+    "motivo" : "Ytalo",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Vitão ' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Vitão ",
+    "row" : 79,
+    "player" : "VITAO",
+    "motivo" : "Vitão",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Natanael' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Natanael",
+    "row" : 80,
+    "player" : "NATANAEL",
+    "motivo" : "Natanael",
+    "to" : "Gama",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Chales Dias' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gama",
+    "matchedName" : "Chales Dias",
+    "row" : 81,
+    "player" : "CHALES DIAS",
+    "motivo" : "Chales Dias",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Anthony' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Vila Nova",
+    "matchedName" : "Anthony",
+    "row" : 82,
+    "player" : "ANTHONY",
+    "motivo" : "Anthony",
+    "to" : "Guarany de Sobral",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'João Marcus' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Novo Hamburgo",
+    "matchedName" : "João Marcus",
+    "row" : 83,
+    "player" : "JOAO MARCUS",
+    "motivo" : "João Marcus",
+    "to" : "Cruzeiro-RS",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Bebeto Jung' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Ferroviaria-PI",
+    "matchedName" : "Bebeto Jung",
+    "row" : 84,
+    "player" : "BEBETO JUNG",
+    "motivo" : "Bebeto Jung",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Iago Dias' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Iago Dias",
+    "row" : 85,
+    "player" : "IAGO DIAS",
+    "motivo" : "Iago Dias",
+    "to" : "Ferroviaria-PI",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'João Carlos' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Portuguesa RJ",
+    "matchedName" : "João Carlos",
+    "row" : 86,
+    "player" : "JOAO CARLOS",
+    "motivo" : "João Carlos",
+    "to" : "Ypiranga-RS",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Juliano' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Joinville",
+    "matchedName" : "Juliano",
+    "row" : 87,
+    "player" : "JULIANO",
+    "motivo" : "Juliano",
+    "to" : "Gaúcho",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pedro Pedra' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Gaúcho",
+    "matchedName" : "Pedro Pedra",
+    "row" : 88,
+    "player" : "PEDRO PEDRA",
+    "motivo" : "Pedro Pedra",
+    "to" : "Joinville",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Higor' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Vila Nova",
+    "matchedName" : "Higor",
+    "row" : 89,
+    "player" : "HIGOR",
+    "motivo" : "Higor",
+    "to" : "Tuna Luso",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Pedro Gaiotti' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Inter SM",
+    "matchedName" : "Pedro Gaiotti",
+    "row" : 90,
+    "player" : "PEDRO GAIOTTI",
+    "motivo" : "Pedro Gaiotti",
+    "to" : "Tuna Luso",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Oliveira' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Inter SM",
+    "matchedName" : "Oliveira",
+    "row" : 91,
+    "player" : "OLIVEIRA",
+    "motivo" : "Oliveira",
+    "to" : "Tuna Luso",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Rodrigo' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Inter SM",
+    "matchedName" : "Rodrigo",
+    "row" : 92,
+    "player" : "RODRIGO",
+    "motivo" : "Rodrigo",
+    "to" : "Brasil de Pelotas",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Luis Otávio' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Internacional",
+    "matchedName" : "Luis Otávio",
+    "row" : 93,
+    "player" : "LUIS OTAVIO",
+    "motivo" : "Luis Otávio",
+    "to" : "Cascavel",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Álvaro Montoro' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Internacional",
+    "matchedName" : "Álvaro Montoro",
+    "row" : 94,
+    "player" : "ALVARO MONTORO",
+    "motivo" : "Álvaro Montoro",
+    "to" : "Ypiranga-RS",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Robinho' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Atlético Cajazeirense",
+    "matchedName" : "Robinho",
+    "row" : 95,
+    "player" : "ROBINHO",
+    "motivo" : "Robinho",
+    "to" : "Riograndense",
+    "status" : "SUCCESS"
+  }, {
+    "message" : "Time 'Remo' está com 30 jogadores (limite: 30) e não há vendas previstas nesta planilha que abram vaga.",
+    "matchScore" : "0%",
+    "from" : "Ypiranga-BA",
+    "matchedName" : "",
+    "row" : 96,
+    "player" : "JIBRIL COULIBALY",
+    "motivo" : "Jibril Coulibaly",
+    "to" : "Remo",
+    "status" : "SKIPPED_ROSTER_FULL"
+  }, {
+    "message" : "Transferido. Nome no .ban: 'Walysson' (similaridade: 100%)",
+    "matchScore" : "100%",
+    "from" : "Brasil de Pelotas",
+    "matchedName" : "Walysson",
+    "row" : 97,
+    "player" : "WALYSSON",
+    "motivo" : "Walysson",
+    "to" : "Mazagão",
+    "status" : "SUCCESS"
+  } ]
+}
