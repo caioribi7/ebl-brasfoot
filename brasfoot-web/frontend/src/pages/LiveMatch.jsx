@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 
 const charLabels = {
@@ -103,7 +103,7 @@ function LiveMatch() {
     }).catch(() => {});
   };
 
-  const connectToMatch = useCallback(() => {
+  const connectToMatch = () => {
     if (eventSourceRef.current) eventSourceRef.current.close();
     const es = new EventSource(`/api/matches/${id}/live?duration=${duration}`);
     eventSourceRef.current = es;
